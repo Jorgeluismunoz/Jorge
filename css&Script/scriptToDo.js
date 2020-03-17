@@ -1,6 +1,6 @@
 /*--Jorge Munoz.
     CSD 122 Javascript and JQuery.
-    Web Project.*/
+    Web Project. To Do list Project*/
 //The ready event occurs when the DOM (document object model) has been loaded.
 $(document).ready(function(){
 
