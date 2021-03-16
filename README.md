@@ -1,1 +1,1 @@
-Myname is Jorge, I currently enrolled in computer software development and this is my third quarter. I like the graphic design and I'd like to learn how create websites, games, and applications. This is a wireframe that show an idea of how the web side will be structured.
+I currently enrolled computer and software development; this is my fifth quarter. I am a proactive person who likes challenges. I do activities that I like what makes me a dedicated, responsible and committed person. I'd like to learn more about development websites, games, and applications. 
