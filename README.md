@@ -1,4 +1,4 @@
-I am Jorge Munoz, I currently enrolled  an AAS Computer and Software Development; this is my fifth quarter. In my native country (Venezuela) I worked in the telecommunications area. I have all the availability to learn and venture into this field, I would like to improve my skills as a programmer and learn more about development of applications, websites or video games. 
+I am Jorge Munoz, I am currently enrolled  an AAS Computer and Software Development; this is my fifth quarter. In my native country (Venezuela) I worked in the telecommunications area. I have all the availability to learn and venture into this field, I would like to improve my skills as a programmer and learn more about development of applications, websites or video games. 
 
 In the last team where I developed my work as a project engineer, I was able to increase the performance and efficiency of the project implementation group.
 
